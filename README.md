@@ -40,7 +40,7 @@ All scans and analyses were done for educational purposes only. No exploitation,
 ## 👨‍💻 Author  
 **Sameer Malik** – Cybersecurity enthusiast passionate about Red Teaming & IoT Security  
 GitHub: [mSameerMalik](https://github.com/mSameerMalik)  
-LinkedIn: [linkedin.com/in/muhammad-sameer-malik-18b52634b](https://www.linkedin.com/in/muhammad-sameer-malik-18b52634b/)
+LinkedIn: [linkedin.com/in/muhammad-sameer-malik-18b52634b](https://www.linkedin.com/in/muhamad-sameer-malik-18b52634b/)
 
 ## 🏷️ Tags  
 #IoTSecurity #Shodan #OSINT #Dahua #CameraHacking #CyberAwareness #RedTeam #Infosec #EthicalHacking #mSameerMalik
